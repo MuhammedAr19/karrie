@@ -87,7 +87,7 @@ body:has(#contact:target) .first-nav .nav-item:nth-child(7)::after{
 /*end-nav*/
 /*start-home*/
 #home{
-    height: 100lvh;
+    height: 100vh;
     background-image: url(../img/bg.jpg);
     background-size: cover;
     background-position: center center;
